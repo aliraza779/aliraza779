@@ -1,13 +1,74 @@
-<h1>Hi 👋, I'm Ali Raza</h1>
-<p>Business & Project Analyst | Power BI | SQL |</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/SYED MUHAMMAD ALI RAZA" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aliraza779&show_icons=true&locale=en" alt="aliraza779" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza779&" alt="aliraza779" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliraza779&show_icons=true&locale=en&layout=compact" alt="aliraza779" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza779" alt="aliraza779" /></a></p>
+#### <div align="center">I'm Ali Raza, a Data Analyst & Business Intelligence (BI) Specialist with expertise in Data Modeling, Reporting, and Database Administration.</div>  
+  
+
+I actively explore data modeling, SQL query optimization, and Power BI analytics, constantly refining my ability to transform raw data into actionable insights.  
+  
+
+My expertise includes:  
+  
+
+✨ SQL / PostgreSQL / MySQL – Data extraction, query optimization, and database management
+
+✨ Power BI – Data visualization, interactive dashboards, and business reporting
+
+✨ ETL & Data Processing – Data cleaning, transformation, and preparation for analysis
+
+✨ Business Intelligence & Analytics – Identifying trends, forecasting, and delivering data-driven insights  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/aliraza779" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/engineermbaaliraza/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
+
+
+  
+
 
